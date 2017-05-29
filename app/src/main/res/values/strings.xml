@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ContService</string>
+    <string name="sobrenos">A Contservice é uma empresa moderna, fundada há mais de vinte anos pelos renomados contadores Dirceu Mendes
+Alves (Autonorte, Coteminas, Castrol do Brasil, Montes Claros Diesel) e Danilo Magalhães Alves (Biobrás, Unimed,
+Indumetal, Tratormoc), é composta de profissionais altamente qualificados. A empresa tem como objetivo principal a
+satisfação das necessidades dos seus clientes por meio da transformação de dados contábeis em informações úteis à
+tomada de decisão e ao cumprimento das Leis fiscais, tributárias e sociais.</string>
+    <string name="nossamissao">Nossa Missão</string>
+    <string name="nossamissaotexto">A nossa missão é dar suporte aos clientes para se desenvolverem de uma forma segura, com controles internos eficientes e contabilidade eficaz, com o menor custo tributário possível e ausência de problemas fiscais.</string>
+    <string name="nossosservicos">Nossos Serviços</string>
+    <string name="textonossosservicos">Atendimento Personalizado Contabilidade em Geral Departamento de Pessoal Departamento Fiscal Auditoria Perícia Contábil Consultoria Análise Tributária e Recuperação de Tributos Transferência de veículos Transferência de imóveis</string>
+    <string name="areaatuacao">Area Atuação</string>
+    <string name="textoareaatuacao">Atendemos clientes em todo o Brasil. Atualmente temos clientes no Norte, Sul e Noroeste de Minas Gerais e no estado de Goiás</string>
+    <string name="textosobrenos">A Contservice é uma empresa moderna, fundada há mais de vinte anos pelos renomados contadores Dirceu Mendes Alves (Autonorte, Coteminas, Castrol do Brasil, Montes Claros Diesel) e Danilo Magalhães Alves (Biobrás, Unimed, Indumetal, Tratormoc), é composta de profissionais altamente qualificados. A empresa tem como objetivo principal a satisfação das necessidades dos seus clientes por meio da transformação de dados contábeis em informações úteis à tomada de decisão e ao cumprimento das Leis fiscais, tributárias e sociais.</string>
+</resources>
